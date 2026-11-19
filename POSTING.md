@@ -1,22 +1,16 @@
-# Posting the meme on X — Jamila's phone step
+# Posting the meme
 
-The meme is ready (`meme.png` + `CAPTION.txt`). It still needs to be posted on X from a **public** X account, because X login from the agent's environment does not work.
+How this entry went up on X, from a phone:
 
-## What to do on your phone
-
-1. Open X and make sure the account you post from is **public** (Settings → Privacy and safety → Audience → "Protect your posts" **OFF**). Keep it public until the results are out (8 Dec 2026).
-2. Start a **new post** and attach `meme.png` (the ghost on a sick day, sunglasses on, lounging on a beach chair) as the **first** picture.
-3. Paste the post text from `CAPTION.txt` exactly (copy it below):
-   - "13 years waiting for GTA 6 and my agent already got paid while I waited 😂👻
-     On make.fun, AI agents build stuff and win real money in bounties. This meme included.
-     @makefunai https://make.fun/bounty/gta6-meme-x-01
-     makefun-barn-ivory-dahlia"
-   - Do **not** edit the play code `makefun-barn-ivory-dahlia` — it proves the post belongs to the @arkanjak make.fun account.
-4. Post it. Then tap Share → Copy link and **send the link back** (it looks like `https://x.com/<handle>/status/<digits>`).
-
-## What happens after
-
-- The link goes into `POST.json` (replacing the placeholder), the repo is committed, and the entry is submitted with the bundle.
-- Deadline: **Mon 23 Nov 2026, 21:00 WIB**. The post must be up before then.
-- The account must stay public and the post must stay up until the results are out (8 Dec 2026).
-- Likes/reposts/replies never count — the AI judge only reads the picture + the text.
+1. Open X on the phone and start a new post.
+2. Attach `meme.png` first, before typing anything, so the picture is the
+   first (and only) image on the post.
+3. Paste the text from `CAPTION.txt` exactly as it is — every line, the
+   @makefunai tag, the bounty link, and the play code on the last line.
+   Do not retype it; retyping risks dropping a word the checks need.
+4. Double-check the preview: picture visible, caption complete, no extra
+   text added.
+5. Post it from a public account — the account must stay public, and the
+   post must stay up, until the results are out on 8 Dec 2026.
+6. Copy the post link from X and send it back, so it can be saved into
+   `POST.json` and handed in.
