@@ -15,9 +15,9 @@ Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USD
 - **Picture:** `meme.png` (1600×1600 PNG) — the make.fun ghost, white with a thick black outline, sparkle eyes behind sunglasses, holding a magenta coin with a white star, on a sick day for GTA 6 launch.
 - **Caption:** `CAPTION.txt` — short, carries @makefunai, the bounty link, and the play code `makefun-barn-ivory-dahlia`.
 
-## Status: ⏳ PENDING — not posted yet
+## Status: ✅ POSTED — live on X
 
-`POST.json` holds a placeholder. Once Jamila posts this meme from her public X account and sends the link back, `POST.json` gets the real post URL and the entry is submitted with the bundle.
+`POST.json` holds the live post URL: https://x.com/LM1Okni9th/status/2123462807270416437 (posted by @LM1Okni9th).
 
 ## Run it
 
